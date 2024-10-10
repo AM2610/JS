@@ -1,0 +1,6 @@
+"liveServer.settings.ignoreFiles": [
+  "**/*.scss",
+  "**/*.sass",
+  "**/node_modules/**",
+  "**/.git/**"
+]
